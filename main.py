@@ -1,6 +1,8 @@
 import streamlit as st
 from os import write
 
+#use pip3 or pip install streamlit
+
 st.header("Mantra's website")
 
 #image
