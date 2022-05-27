@@ -26,6 +26,8 @@ st.text("website made by Mantra.Mehta for any questions here is my gmail")
 
 st.text("mantra.mehta@gmail.com")
 
+
+
 st.write("check out my [discord](https://discord.gg/ZHqCEqb7)")
 
 st.write("check out my [github](https://github.com/mantramehtapy)")
